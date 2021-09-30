@@ -5,14 +5,14 @@
 **felippegh/felippegh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
+<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
   Hi
   <𝚍𝚎𝚟𝚜 />, I'm Ankush </h1>
-<h3 align="center">A student from Saint Xavier's Ahmedabad<img
+<h3>A student from Saint Xavier's Ahmedabad<img
     src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/BR-Brazil-Flag-icon.png" width="25 style="
     vertical-align: bottom" /> </h3>
 
-<div align="center">
+<div>
   You have finally discovered my Github profile, I was waiting for you! <br>
   Feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 
