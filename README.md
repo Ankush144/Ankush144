@@ -1,132 +1,99 @@
-<!-- <h1 align ="center">Ankush Panchal</h1>
-<h2 align ="center" color="yellow">I'm a Competitve Coder and Development Enthusiast!</h2>
-<h3 align ="center">TechNologies I know::HTML,CSS,JAVASCRIPT,BOOTSTRAP</h3> -->
-<!--
-**felippegh/felippegh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
-<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
-  Hi
-  <𝚍𝚎𝚟𝚜 />, I'm Ankush </h1>
-<h3>A student from Saint Xavier's Ahmedabad<img
-    src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/BR-Brazil-Flag-icon.png" width="25 style="
-    vertical-align: bottom" /> </h3>
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ankush Panchal</h1>
+<h3 align="center">Web Developer | CP coder | Youtuber</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/ankush-panchal-62963819b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ankushpanchal144" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@chowrasia_akash1" height="30" width="40" /></a>
+<a href="https://leetcode.com/ankush_m_143/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="akash_chowrasia" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ankushpanchal144/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="akash_chowrasia" height="30" width="40" /></a>
+ <a href = "mailto: ankushpanchal144@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+</p>
+</p>
 
+
+
+<p align="center">
+  <em>
+    This is ME, Ankush Panchal, a <b>2nd year</b> undergraduate from <a href="https://sxca.edu.in/"> <b>Saint Xavier College</b>, Ahmedabad</a>. <br>
+    A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
+    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+
+✔ I’m currently learning **ReactJS** & **NodeJS**<br>
+✔ I’m looking to collaborate with any **Open - Source contribution**<br>
+✔ I’m looking for help for learning **Remote Sensing**<br> 
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+<p align="left">
+  
+  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
+  <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
+  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
+  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
+  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
+  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
+  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/apache_hadoop-ar21.svg"> </code>
+  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
+  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/sqlite-ar21.svg"> </code>
+  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg"> </code>
+  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/postgresql-ar21.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
+  <code> <img height="50" src="https://github.com/Akash-chowrasia/Akash-chowrasia/blob/main/images/flask.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </code>
+  <code> <img height="50" src="  https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg
+"> </code>
+  <hr>
+  <p align="center">
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankush144&show_icons=true&locale=en&layout=compact" alt="Ankush Panchal" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ankush144&show_icons=true&locale=en" alt="Ankush144" width="410" /></p>
+
+<hr>
 <div>
-  You have finally discovered my Github profile, I was waiting for you! <br>
-  Feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-
-  <i>Happy Coding!</i> 🚀
-  </br>
-  </br>
-  </br>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
 
-<div>
-  <img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-</div>
-
-<br>
-<br>
-<br>
-<br>
-
-<div>
-
-  - 👨‍💻 All of my projects are available [here](https://github.com/Ankush144?tab=repositories)
-
-  - 💬 Ask me about anything <a href="https://github.com/issues"><b>here</b></a>
-
-  - 📫 Also, you may send a nice letter to **ankushpanchal144@gmail.com**
-
-</div>
-<br>
-<br>
-<br>
-<br>
-<br>
-</br>
-</br>
-</br>
-</br>
-</br>
-<div>
-  <!-- <details>
-    <summary align="left">How about some stats?
-      <img align="right" src="https://komarev.com/ghpvc/?username=felippegh" alt="felippegh" />
-    </summary>
-    <p align="center">
-      <img alt="GitHub Stats"
-        src="https://github-readme-stats.vercel.app/api?username=felippegh&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-      <br>
-      <img alt="Top Language"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=felippegh&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
-        </p> <p>
-      <i>
-        *NOTE: Most used languages does not indicate my skill level or something like that, it's a github metric of
-        which languages I have the most code on github.
-      </i>
-    </p>
-  </details> -->
-</div>
-
-<div align="center">
-  <h3>Where to find me</h3>
-  <p>
-    <a href="https://github.com/Ankush144" target="_blank"><img alt="Github"
-        src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-    <a href="https://in.linkedin.com/in/ankush-panchal-62963819b" target="_blank"><img alt="LinkedIn"
-        src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://www.instagram.com/thisis.ankush/" target="_blank"><img alt="Instagram"
-        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  </p>
-</div>
-
-<br />
-
-<div align="center">
-  <h3>Technologies and Tools I use</h3>
-
-  <!-- <a href="https://laravel.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg"
-      alt="laravel" width="45" height="45" /> </a> -->
-  <!-- <a href="https://www.php.net/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg"
-      alt="postman" width="45" height="45" /> </a> -->
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img
-      src="https://img.icons8.com/color/48/000000/css3.png" /> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
-      src="https://img.icons8.com/color/48/000000/javascript.png" /> </a>
-  <!-- <a href="https://postgres.com" target="_blank"> <img
-      src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="45" height="45" />
-  </a> -->
-  <!-- <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img
-      src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" /> </a> -->
-  <!-- <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" /> </a> -->
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-  </a>
-  <!-- <a href="https://sass-lang.com" target="_blank"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> -->
-  <!-- <a href="https://cloud.google.com/" target="_blank"> <img
-      src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40"
-      height="40" /> </a> -->
-  <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img
-      src="https://img.icons8.com/color/48/000000/nodejs.png" /> </a>
-  <!-- <a href="https://postman.com" target="_blank"> <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" />
-  </a> -->
-  <a href="https://code.visualstudio.com/" target="_blank"> <img
-      src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="45"
-      height="45" /> </a>
-  <!-- <a href="https://www.jetbrains.com/phpstorm/" target="_blank"> <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/512px-PhpStorm_Icon.svg.png"
-      alt="phpstorm" width="45" height="45" /> </a> -->
-
-</div>
-
-<br>
-
-
------
-Credits: [felippegh](https://github.com/felippegh)
