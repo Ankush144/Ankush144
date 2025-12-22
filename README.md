@@ -1,28 +1,126 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ankush Panchal</h1>
-<h3 align="center"> .NET | Angular | REST API Developer </h3>
+<h1 align="center">Hi 👋, I'm Ankush Panchal</h1>
+<h3 align="center">Software Engineer Associate | .NET & Angular Developer</h3>
+
 <p align="center">
-<a href="https://www.linkedin.com/in/ankush-panchal-62963819b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ankushpanchal144" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Hackerrank" height="30" width="40" /></a>
-<a href="https://leetcode.com/ankush_m_143/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="LeetCode" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ankushpanchal144/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
-<a href="mailto:ankushpanchal144@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+📞 <b>Phone:</b> +91 9636933013 &nbsp; | &nbsp;
+📧 <b>Email:</b> <a href="mailto:ankushpanchal144@gmail.com">ankushpanchal144@gmail.com</a>
 </p>
 
 <p align="center">
-  <em>
-    I'm a <b>Software Developer</b> at <a href="https://naapbooks.com/">Naapbooks Private Limited</a>, specializing in <b>REST APIs</b> with <b>ASP .NET Core</b>. <br>
-    Passionate about <b>web development</b>, and always seeking to <b>enhance</b> my skills with <b>.NET</b>, <b>Angular</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and <b>jQuery</b>. 🚀<br>
-    Currently pursuing a Master’s in <b>Computer Science</b> and eager to collaborate on <b>exciting projects</b>! 🌟
-  </em> 
-  <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning and Growing Every Day!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+<a href="https://www.linkedin.com/in/ankush-panchal-62963819b/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40"/>
+</a>
+<a href="https://github.com/Ankush144" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="40"/>
+</a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ankush144&label=Profile%20views&color=0e75b6&style=flat" alt="Ankush144" /> </p>
-<img align="right" width="300px" alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+---
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuff...***
+## 👨‍💻 Summary
 
-✔ I’m currently learning **ReactJS** and **NodeJS**.<br>
-✔ I’m looking to contribute to **Open Source projects**.<br>
-✔ I’m interested in **Remote Sensing**.<br>
+Software Developer with **2 years of hands-on experience** building scalable, full-stack web applications using **.NET Core, Angular, and microservices architecture**.  
+Experienced in designing **clean, reusable REST & SOAP APIs**, developing **enterprise nopCommerce plugins**, and integrating **complex third-party systems (GDS, ERP)**.
+
+Strong backend foundation with **Repository Pattern, Dependency Injection**, and **performance-optimized SQL Server & MySQL stored procedures**. Proven track record of delivering **enterprise-grade, maintainable B2B solutions**.
+
+---
+
+## 🛠️ Technical Skills
+
+### 🔹 Backend
+- ASP.NET Core, Web API
+- REST, SOAP
+- Entity Framework Core
+
+### 🔹 Frontend
+- Angular
+- HTML, CSS, JavaScript, jQuery
+
+### 🔹 Database
+- SQL Server, MySQL  
+- Advanced SQL & Stored Procedures  
+- Code First & DB First
+
+### 🔹 Tools & Platforms
+- Visual Studio, VS Code
+- Postman, Swagger
+- Git, GitHub
+
+### 🔹 Libraries & Packages
+- Newtonsoft.Json
+- AutoMapper
+- Others as per project needs
+
+---
+
+## 💼 Work Experience
+
+### **Software Engineer Associate**  
+**NaapBooks Ltd.** | May 2023 – Present
+
+- Engineered a **B2B/B2C flight booking system** integrating **Amadeus, TBO, Akasa Airlines, and Travelport** using **SOAP & REST APIs**.  
+  🔹 Implemented intelligent JSON caching → **80% reduction in search latency**.
+- Built a **reusable enterprise nopCommerce plugin** (internally valued at **$1000+**) for seamless integration with **Ezeo ERP**.
+- Architected **microservice-based synchronization** between nopCommerce and Ezeo → **50–60% faster deployment cycles**, reused across **3+ projects**.
+- Developed **Vizman Visitor Management UI** in Angular with Ant Design, consuming secure .NET Core APIs.
+- Authored **Postman collections & environment-based API documentation**, reducing onboarding time by **30%**.
+- Enforced **pure stored-procedure-based MySQL architecture**, achieving **10–50% performance gains**.
+- Automated **ERPNext ↔ nopCommerce integration** via Windows Service, eliminating manual operational tasks.
+
+---
+
+## 🚀 Key Projects
+
+### ✈️ Arihant Flight Booking System (Corporate)
+- Built backend architecture for corporate flight bookings.
+- Integrated **Travelport, Amadeus, TBO, Akasa Airlines**.
+- Implemented **GST mapping, fare rules, seat & baggage workflows**.
+- Designed **role-based access control** (Admin, Company, Employee).
+- Optimized all database logic using **SQL Server stored procedures**.
+
+**Tech Stack:** .NET, MySQL, SOAP APIs, GDS Integrations
+
+---
+
+### 🧩 Ezeo ERP Integration (Plugin & Middleware)
+- Developed centralized ERP panel with **multi-level role management**.
+- Implemented full **sales & purchase order workflows**.
+- Enabled real-time synchronization between **nopCommerce & Ezeo ERP**.
+- Built **credit customer & dealer management logic**.
+- Designed secure **role-based permission system**.
+
+---
+
+### 🔄 MiddleMan – Two-Way Sync Service
+- Built a **.NET Core Worker Service** running every minute.
+- Implemented bi-directional sync between **nopCommerce & ERPNext**.
+- Designed **retry logic, logging, and fault-tolerant pipelines**.
+- Built custom **admin configuration UI** for runtime management.
+
+**Tech Stack:** .NET Core Worker Service, REST APIs, MySQL, nopCommerce, ERPNext
+
+---
+
+## 🎓 Education
+
+- **Master of Computer Application (MCA)**  
+  Uttaranchal University, Uttarakhand (2025)  
+  🎯 CGPA: **8.1**
+
+- **Bachelor of Computer Application (BCA)**  
+  St. Xavier’s University, Ahmedabad (2023)  
+  🎯 CGPA: **8.3**
+
+---
+
+## 🌱 Currently
+- Strengthening **advanced .NET & system design**
+- Preparing for **MNC-level backend interviews**
+- Exploring **React & Node.js**
+
+---
+
+<p align="center">
+  <b>🚀 Learning. Building. Scaling.</b>
+</p>
