@@ -19,7 +19,7 @@
 
 ## 👨‍💻 Summary
 
-Software Developer with **2 years of hands-on experience** building scalable, full-stack web applications using **.NET Core, Angular, and microservices architecture**.  
+Software Developer with **3 years of hands-on experience** building scalable, full-stack web applications using **.NET Core, Angular, and microservices architecture**.  
 Experienced in designing **clean, reusable REST & SOAP APIs**, developing **enterprise nopCommerce plugins**, and integrating **complex third-party systems (GDS, ERP)**.
 
 Strong backend foundation with **Repository Pattern, Dependency Injection**, and **performance-optimized SQL Server & MySQL stored procedures**. Proven track record of delivering **enterprise-grade, maintainable B2B solutions**.
