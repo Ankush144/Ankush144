@@ -65,20 +65,15 @@ I started with hand-built UI/UX and PHP projects (10+ websites, OpenCart stores)
 - Authored **Postman collections and API documentation**, reducing onboarding time by **30%**.
 - Enforced a **stored-procedure-based MySQL architecture**, achieving **10–50% performance gains**.
 - Automated **ERPNext ↔ nopCommerce integration** via Windows Service, removing manual operational tasks.
-### **UI/UX & PHP Developer** | [Company Name] | [Month Year] – [Month Year]
- 
-- Designed and developed **10+ responsive websites** end to end, hand-built without AI tools.
-- Built and customized **OpenCart** stores: themes, modules and checkout flows.
-- Worked directly with the founder to design and build new product features.
 ---
  
 ## 🚀 Key Projects
  
 ### 📡 Smart NFC Platform *(scaled to 300+ users)*
-- Built a [digital card / attendance / access control] platform from concept to production and scaled it to **300+ active users**.
-- Designed [APIs, database and admin dashboard] for [main feature].
+- Built a digital card platform from concept to production and scaled it to **300+ active users**.
+- Designed APIs, database and admin dashboard for different roles manufactures, admins and resellers.
 - Handled deployment, user support and feedback-based improvements.
-**Tech Stack:** [.NET, SQL Server, Android/iOS, etc.]
+**Tech Stack:** [.NET, SQL Server etc.]
  
 ---
  
